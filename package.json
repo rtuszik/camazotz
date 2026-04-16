@@ -12,7 +12,7 @@
     "semver": "5.7.1",
     "vm2": "3.9.10",
     "express": "4.17.1",
-    "cross-spawn": "7.0.6",
+    "cross-spawn": "7.0.3",
     "ip": "1.1.8",
     "micromatch": "4.0.5",
     "dset": "3.1.2",
