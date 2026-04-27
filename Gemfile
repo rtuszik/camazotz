@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "rack", "2.2.3"
+gem "rack", "2.2.23"
 gem "nokogiri", "1.12.0"
 gem "actionpack", "6.0.0"
 gem "puma", "5.6.0"
