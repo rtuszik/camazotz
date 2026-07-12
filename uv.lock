@@ -34,7 +34,7 @@ requires-dist = [
     { name = "flask", specifier = "==0.5" },
     { name = "jinja2", specifier = "==3.0.0" },
     { name = "lxml", specifier = "==4.6.0" },
-    { name = "pillow", specifier = "==8.3.0" },
+    { name = "pillow", specifier = "==8.4.0" },
     { name = "pyyaml", specifier = "==5.3.1" },
     { name = "requests", specifier = "==2.27.0" },
     { name = "setuptools", specifier = "==65.5.0" },
@@ -231,9 +231,9 @@ wheels = [
 
 [[package]]
 name = "pillow"
-version = "8.3.0"
+version = "8.4.0"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/dc/c2/72349bb3a995fda8f4a064ee5dc92903b21886f27be4f5f1ed8c7b7174e4/Pillow-8.3.0.tar.gz", hash = "sha256:803606e206f3e366eea46b1e7ab4dac74cfac770d04de9c35319814e11e47c46", size = 48537313, upload-time = "2021-07-01T06:52:26.923Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/7d/2a/2fc11b54e2742db06297f7fa7f420a0e3069fdcf0e4b57dfec33f0b08622/Pillow-8.4.0.tar.gz", hash = "sha256:b8e2f83c56e141920c39464b852de3719dfbfb6e3c99a2d8da0edf4fb33176ed", size = 49368411, upload-time = "2021-10-15T08:11:38.847Z" }
 
 [[package]]
 name = "pycparser"
