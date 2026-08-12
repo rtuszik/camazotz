@@ -33,7 +33,7 @@ requires-dist = [
     { name = "django", specifier = "==3.2.0" },
     { name = "flask", specifier = "==0.5" },
     { name = "jinja2", specifier = "==3.0.0" },
-    { name = "lxml", specifier = "==4.6.0" },
+    { name = "lxml", specifier = "==4.9.4" },
     { name = "pillow", specifier = "==8.3.0" },
     { name = "pyyaml", specifier = "==5.3.1" },
     { name = "requests", specifier = "==2.27.0" },
@@ -173,9 +173,9 @@ wheels = [
 
 [[package]]
 name = "lxml"
-version = "4.6.0"
+version = "4.9.4"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/3c/5a/81446fb5a4706bb07a98427634ab93219dc7fa393841d81f5da5c7e151b7/lxml-4.6.0.tar.gz", hash = "sha256:8319abacbbe9fd9791c2e3c23deb9b6a16abc0fcbdfcc26722035e865b3d207f", size = 3170763, upload-time = "2020-10-17T11:11:43.705Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/84/14/c2070b5e37c650198de8328467dd3d1681e80986f81ba0fea04fc4ec9883/lxml-4.9.4.tar.gz", hash = "sha256:b1541e50b78e15fa06a2670157a1962ef06591d4c998b998047fff5e3236880e", size = 3576664, upload-time = "2023-12-19T19:37:24.296Z" }
 
 [[package]]
 name = "markupsafe"
