@@ -7,7 +7,7 @@
       "dependencies": {
         "axios": "0.21.0",
         "cross-spawn": "7.0.6",
-        "dset": "3.1.2",
+        "dset": "3.1.4",
         "ejs": "3.1.6",
         "express": "4.17.1",
         "ip": "1.1.8",
@@ -74,7 +74,7 @@
 
     "destroy": ["destroy@1.0.4", "", {}, "sha512-3NdhDuEXnfun/z7x9GOElY49LoqVHoGScmOKwmxhsS8N5Y+Z8KyPPDnaSzqWgYt/ji4mqwfTS34Htrk0zPIXVg=="],
 
-    "dset": ["dset@3.1.2", "", {}, "sha512-g/M9sqy3oHe477Ar4voQxWtaPIFw1jTdKZuomOjhCcBx9nHUNn0pu6NopuFFrTh/TRZIKEj+76vLWFu9BNKk+Q=="],
+    "dset": ["dset@3.1.4", "", {}, "sha512-2QF/g9/zTaPDc3BjNcVTGoBbXBgYfMTTceLaYcFJ/W9kggFUkhxD/hMEeuLKbugyef9SqAx8cpgwlIP/jinUTA=="],
 
     "ecdsa-sig-formatter": ["ecdsa-sig-formatter@1.0.11", "", { "dependencies": { "safe-buffer": "^5.0.1" } }, "sha512-nagl3RYrbNv6kQkeJIpt6NJZy8twLB/2vtz6yN9Z4vRKHN4/QZJIEbqohALSgwKdnksuY3k5Addp5lg8sVoVcQ=="],
 
